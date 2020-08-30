@@ -1,4 +1,4 @@
-# Hebbian-LMS 
+# Experiments with Hebbian-LMS, by Siddharth
 
 "The Hebbian-LMS Learning Algorithm" by Bernard Widrow ; Youngsik Kim ; Dookun Park.
 
