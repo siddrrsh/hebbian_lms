@@ -1,6 +1,6 @@
 # Experiments with Hebbian-LMS 
 
-Adjustments in parameters done by Siddharth
+Additional Experiments
 
 "The Hebbian-LMS Learning Algorithm" by Bernard Widrow ; Youngsik Kim ; Dookun Park.
 
